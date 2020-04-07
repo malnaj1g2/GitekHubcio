@@ -1,0 +1,22 @@
+autoprefixer-cli -o main.prefixed.css main.css
+autoprefixer-cli -h
+
+
+cssautoprefixercli
+cssautoprefixercli
+
+
+npm install -g html-validate
+html-validate FILENAME..
+
+
+{
+  „ rozszerza ” : [ 
+    „ htmlvalidate: zalecane ”
+  ] ,
+ 
+  „ zasady ” : { 
+    „ close-order ” : „ error ” 
+    „ void ” : [ „ warn ” , { „ style ” : „ omit ” } ]   
+  }
+}
